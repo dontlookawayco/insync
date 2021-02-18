@@ -17,3 +17,6 @@ The features that need to be implemented. When we are working on one of the feat
 | Next | x | Go to the next video |
 | Back | x | Go back to the last video |
 | Pause | x | Pause the video
+
+## License
+This project is released under the Apache 2.0 License.
